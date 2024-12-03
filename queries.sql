@@ -1,3 +1,7 @@
+--Alicia Cook
+--Dudleen Paul
+--Kensia Saint-Hilaire
+
 SELECT address 
 FROM Listings
 WHERE address IN (SELECT address FROM House); 
