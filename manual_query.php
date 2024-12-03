@@ -1,3 +1,7 @@
+//Alicia Cook
+//Dudleen Paul
+//Kensia Saint-Hilaire
+
 <?php
 include 'db_connection.php';
 include 'header.php';
