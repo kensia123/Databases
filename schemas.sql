@@ -1,3 +1,8 @@
+--Alicia Cook
+--Dudleen Paul
+--Kensia Saint-Hilaire
+
+
 DROP DATABASE IF EXISTS mls; 
 
 CREATE DATABASE mls;
