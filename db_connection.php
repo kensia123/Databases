@@ -1,3 +1,7 @@
+//Alicia Cook
+//Dudleen Paul
+//Kensia Saint-Hilaire
+
 <?php
 $servername = "localhost";
 $username = "root";
