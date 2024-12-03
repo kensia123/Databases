@@ -1,3 +1,7 @@
+//Alicia Cook
+//Dudleen Paul
+//Kensia Saint-Hilaire
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
